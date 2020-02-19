@@ -7,4 +7,8 @@ public class Wheel {
     public Wheel(float width) {
         this.width = width;
     }
+
+    public float getWidth() {
+        return width;
+    }
 }
